@@ -1,7 +1,7 @@
 <template>
   <header class="flex flex-col flex-mid-align">
     <a v-on:click="gotoHomePage" href="./index.html">
-      <img class="logo" :src="'./img/u+-logo.svg'" alt="U+" />
+      <img class="logo" :src="'./img/uplus-logo.png'" alt="U+" />
     </a>
   </header>
 </template>

@@ -21,7 +21,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": ".69d9db1419014cd82ec4f12b729d7a",
-    "url": "./auto/img/u+-logo.svg"
+    "url": "./auto/img/uplus-logo.png"
   },
   {
     "revision": ".519caf26952a12d92619ef194a1633",
@@ -57,7 +57,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": ".d930e6e850492b8527d14ad46f26d1",
-    "url": "./commercial_bank/img/u+-logo.svg"
+    "url": "./commercial_bank/img/uplus-logo.png"
   },
   {
     "revision": ".9b14376e0cf7d5e1e2e6c20e84c7f7",
@@ -85,7 +85,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": ".1add469672c5799c3a2f0adbadf637",
-    "url": "./comms/img/u+-logo.svg"
+    "url": "./comms/img/uplus-logo.png"
   },
   {
     "revision": ".0e2d62c613752a885013390f905e26",
@@ -129,7 +129,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": ".abe76efb5e9af39e16c89bdd4b0564",
-    "url": "./gov/img/u+-logo.svg"
+    "url": "./gov/img/uplus-logo.png"
   },
   {
     "revision": ".09ed23ac3d5df6dace794dbc130bec",
@@ -157,7 +157,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": ".bb413658287d9bcdb8789df76eaa40",
-    "url": "./health_care/img/u+-logo.svg"
+    "url": "./health_care/img/uplus-logo.png"
   },
   {
     "revision": ".77336f10b456782ad1a1001502b579",
@@ -185,7 +185,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": ".bb413658287d9bcdb8789df76eaa40",
-    "url": "./health_payer/img/u+-logo.svg"
+    "url": "./health_payer/img/uplus-logo.png"
   },
   {
     "revision": ".c845d1b6a517a24a54a2c1e7b82b33",
@@ -213,7 +213,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": ".1fb448744330a692d78b9b4ce06265",
-    "url": "./health_pharma/img/u+-logo.svg"
+    "url": "./health_pharma/img/uplus-logo.png"
   },
   {
     "revision": ".510dfeb107cc021c3602bd376ac91b",
@@ -241,7 +241,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": ".bb413658287d9bcdb8789df76eaa40",
-    "url": "./health_provider/img/u+-logo.svg"
+    "url": "./health_provider/img/uplus-logo.png"
   },
   {
     "revision": ".a8ad6422e47ac4d49f22eb3119e4ee",
@@ -289,7 +289,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": ".13fcd55ed2a05023ba8ee73f0c45c5",
-    "url": "./insurance/img/u+-logo.svg"
+    "url": "./insurance/img/uplus-logo.png"
   },
   {
     "revision": ".2485f0b8faccaa0e2d6cf85c03f2ed",
@@ -393,7 +393,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": ".8c11b784eb3c902a58900c6e68c0c5",
-    "url": "./manufacturing/img/u+-logo.svg"
+    "url": "./manufacturing/img/uplus-logo.png"
   },
   {
     "revision": ".3acbfdbb1183a292fc2235a5cb409b",
@@ -425,7 +425,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": ".d930e6e850492b8527d14ad46f26d1",
-    "url": "./retail_bank/img/u+-logo.svg"
+    "url": "./retail_bank/img/uplus-logo.png"
   },
   {
     "revision": ".cc1085401a090418134d366dfdf787",

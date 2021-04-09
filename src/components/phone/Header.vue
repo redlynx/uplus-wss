@@ -4,7 +4,7 @@
       <i class="pi pi-bars"></i>
     </button>
     <a class="logo-link">
-      <img v-on:click="goToHome" class="logo" :src="'./img/u+-logo.svg'" alt="U+" />
+      <img v-on:click="goToHome" class="logo" :src="'./img/uplus-logo.png'" alt="U+" />
     </a>
     <a
       class="kmhelp"

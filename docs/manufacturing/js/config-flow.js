@@ -41,19 +41,19 @@ window.app = {
   ],
   accountpicker: [
     {
-      icon: 'pi-building-2',
+      icon: 'pi-gear-solid',
       title: 'accountpicker1_title',
       desc: 'accountpicker1_desc',
       id: '',
     },
     {
-      icon: 'pi-temp',
+      icon: 'pi-star-solid',
       title: 'accountpicker2_title',
       desc: 'accountpicker2_desc',
       id: '',
     },
     {
-      icon: 'pi-gear',
+      icon: 'pi-speaker-on-solid',
       title: 'accountpicker3_title',
       desc: 'accountpicker3_desc',
       id: '',

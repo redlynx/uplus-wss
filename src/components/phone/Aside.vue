@@ -2,7 +2,7 @@
   <aside v-on:click="hideSidePanel" :class="[isSidePanelVisible ? 'show' : '']">
     <div class="panel background-brand">
       <header>
-        <img class="logo" :src="('./img/u+-logo.svg')" alt="U+">
+        <img class="logo" :src="('./img/uplus-logo.png')" alt="U+">
       </header>
       <nav>
         <MenuItem v-for="item in app.menuitems" v-bind:key="item.title" v-bind:title="item.title"></MenuItem>

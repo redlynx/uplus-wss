@@ -9,7 +9,7 @@
   >
     <div class="wrap header flex">
       <a>
-        <img v-on:click="goHomePage" class="logo" :src="'./img/u+-logo.svg'" alt="U+" />
+        <img v-on:click="goHomePage" class="logo" :src="'./img/uplus-logo.png'" alt="U+" />
       </a>
       <nav class="flex-grow-1">
         <ul class="flex flex-mid-align flex-grow-1">
